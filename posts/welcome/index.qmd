@@ -1,0 +1,8 @@
+---
+title: "Welcome To My Blog"
+author: "Shyam Dwaraknath"
+date: "2024-12-31"
+categories: [news]
+---
+
+This is the first post in a Quarto blog. Welcome!
